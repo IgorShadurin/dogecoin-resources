@@ -188,6 +188,7 @@ For any suggestions, please submit a pull request. Additions should be appended 
 - [Spinthatdoge - Wheel of fortune](http://www.spinthatdoge.com)
 - [Such BlackJack](http://suchblackjack.com/)
 - [Moonbets.com - Real events betting](http://moonbets.com/)
+- [Bilero.com - Gamble for any crypto coin](http://bilero.com/)
 
 ## Development
 
